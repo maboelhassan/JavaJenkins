@@ -1,0 +1,8 @@
+/target/
+lighteningAnalyzerOneIter-read-short.cu
+libcuda.so
+*.idea
+*.settings
+*.iml
+*target
+*DS_Store
