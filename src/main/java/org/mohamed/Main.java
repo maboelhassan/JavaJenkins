@@ -10,6 +10,9 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello again");
         System.out.println("go jenkins go");
+
+
+        
         User user = new User("mohamed", "mail@mail.com", 12);
         Gson gson = new Gson();
         String json = gson.toJson(user);
