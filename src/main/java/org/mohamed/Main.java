@@ -15,7 +15,11 @@ public class Main {
 
 
 
-        
+
+
+
+
+
         User user = new User("mohamed", "mail@mail.com", 12);
         Gson gson = new Gson();
         String json = gson.toJson(user);
